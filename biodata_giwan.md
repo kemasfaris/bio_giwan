@@ -6,9 +6,7 @@ Sekolah : SMK Prakarya Internasional
 <br>
 Alamat : Jl. Cibuntu Tengah 2
 <br>
-Jenis Kelamin : Laki-laki
-<br>
-Cita-cita : Melanjutkan pendidikan di luar negeri
+Cita-cita : Melanjutkan pendidikan di luar negeri & memiliki start-up
 <br>
 Hobi : Bermain Pinao & Desain
 <br>
