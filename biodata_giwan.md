@@ -24,7 +24,8 @@ Riwayat Pendidikan :
 <br>
 Riwayat Pekerjaan :
 <br>
-1.) Magang di CV. Icommits Karya Solusi 
+1.) Magang di CV. Icommits Karya Solusi
 <br>
-2.) Jualan Gorengan
+2.) CEO Amazon
+
 
