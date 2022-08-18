@@ -13,4 +13,12 @@ Hobi : Bermain Pinao & Desain
 No. Telp/WA : 082130908661
 <br>
 Email : Giwan24april@gmail.com
+<br>
+Riwayat Pendidikan :
+<br>
+1.) SD Negeri 041 Cibuntu Warung Muncang
+<br>
+2.) SMP Negeri 25 Bandung
+<br>
+3.) SMK Prakarya Internasional
 
