@@ -28,3 +28,4 @@ Riwayat Pekerjaan :
 <br>
 2.) CEO Amazon
 
+
