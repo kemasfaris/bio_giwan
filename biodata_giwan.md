@@ -21,4 +21,10 @@ Riwayat Pendidikan :
 2.) SMP Negeri 25 Bandung
 <br>
 3.) SMK Prakarya Internasional
+<br>
+Riwayat Pekerjaan :
+<br>
+1.) Magang di CV. Icommits Karya Solusi 
+<br>
+2.) Jualan Gorengan
 
