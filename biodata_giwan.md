@@ -27,5 +27,6 @@ Riwayat Pekerjaan :
 1.) Magang di CV. Icommits Karya Solusi
 <br>
 2.) CEO Amazon
+3.) CEO GOOGLE
 
 
